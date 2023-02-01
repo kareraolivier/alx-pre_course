@@ -1,0 +1,15 @@
+## git add .
+
+## git commit -m "message"
+
+## git push
+
+## git checkout -b "update_script"
+
+## git add .
+
+## git commit -m "message"
+
+## git push --set-upstream origin update_script
+
+## git cheackout main
